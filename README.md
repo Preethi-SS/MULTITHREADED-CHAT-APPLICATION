@@ -1,3 +1,9 @@
+**Name:** PREETHI S  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT08FJI  
+**Domain:** Java programming  
+**Duration:** December 20, 2024 to January 20, 2025  
+**Mentor:** SRAVANI GOUNI
 # MULTITHREADED CHAT APPLICATION
 ## Overview
 
